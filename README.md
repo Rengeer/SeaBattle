@@ -1,1 +1,1 @@
-# SeaBattle-C-
+# SeaBattle
